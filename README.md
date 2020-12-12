@@ -16,7 +16,7 @@ Add the vvvv nuget feed to the `Nuget.config` file before running the Stride lau
 * `%AppData%\NuGet\NuGet.Config`
 * `%AppData%\Roaming\NuGet\NuGet.Config`
 
-Simply add this line below to the other feeds:
+Simply add this line below the other feeds:
 ```xml
 <add key="vvvv-public-feed" value="http://teamcity.vvvv.org/guestAuth/app/nuget/v1/FeedService.svc/" />
 ```
