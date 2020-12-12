@@ -1,0 +1,8 @@
+!Texture
+Id: e2a309ae-cded-48cf-a093-a615056f6147
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/ButtonImages/YellowSphere.PNG
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+IsStreamable: false

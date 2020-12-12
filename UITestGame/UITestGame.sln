@@ -1,0 +1,11 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITestGame.Windows", "UITestGame.Windows\UITestGame.Windows.csproj", "{5C694B31-238D-4CE9-A768-56CD250DF0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITestGame", "UITestGame\UITestGame.csproj", "{0FEA1A69-5448-47D2-B5C4-99D83E552989}"
+EndProject
+Global
+EndGlobal

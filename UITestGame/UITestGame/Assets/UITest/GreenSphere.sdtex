@@ -1,0 +1,8 @@
+!Texture
+Id: 636f1ac9-4c35-4b66-b85b-d11777cb04dc
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/ButtonImages/GreenSphere.PNG
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+IsStreamable: false

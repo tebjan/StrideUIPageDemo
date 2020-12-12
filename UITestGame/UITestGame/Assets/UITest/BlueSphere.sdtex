@@ -1,0 +1,8 @@
+!Texture
+Id: b4abf75e-6eda-4e81-a439-9a65a8c43302
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/ButtonImages/BlueSphere.PNG
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+IsStreamable: false

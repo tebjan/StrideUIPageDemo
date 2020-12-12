@@ -1,0 +1,26 @@
+!PrefabAsset
+Id: 2ff457c4-24d3-4766-8d2e-9afd7a981734
+SerializedVersion: {Stride: 3.1.0.1}
+Tags: []
+Hierarchy:
+    RootParts:
+        - ref!! 5d9f7cb9-4824-479e-adda-68656b5eda99
+    Parts:
+        -   Entity:
+                Id: 5d9f7cb9-4824-479e-adda-68656b5eda99
+                Name: FourButtons
+                Components:
+                    4341913bc0e0aa0c257067d75404762c: !TransformComponent
+                        Id: 333fc3ca-97f0-40f4-8209-3af945e31992
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    25894e891004ea27d989899db8197cc7: !UIComponent
+                        Id: a181d1d6-72f5-4852-b5bf-c202e9fbd96a
+                        Page: cdc40fd5-4f19-4b76-919c-ece6586f2ab1:UITest/FourButtons
+                        IsFullScreen: false
+                        Resolution: {X: 1280.0, Y: 720.0, Z: 1.0}
+                        Size: {X: 1.0, Y: 1.0, Z: 0.1}
+                        ResolutionStretch: FixedWidthFixedHeight
+                        IsBillboard: false
