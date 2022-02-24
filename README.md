@@ -1,5 +1,7 @@
 ## Render Stride UIPage in Scene
-Quick demo of loading a UI page and using it's events in VL.
+Quick demo of:
+* Loading a UI page and using it's events in VL
+* Render a 3D Text
 ## How To Run
 * Download latest [vvvv gamma](https://visualprogramming.net)
 * Open `UIPageInSceneDemo.vl`
