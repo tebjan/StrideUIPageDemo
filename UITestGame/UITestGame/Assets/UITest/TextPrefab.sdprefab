@@ -1,0 +1,24 @@
+!PrefabAsset
+Id: 83116bae-b1d4-4e8e-8aed-7ef8194a55a0
+SerializedVersion: {Stride: 3.1.0.1}
+Tags: []
+Hierarchy:
+    RootParts:
+        - ref!! 226be755-42df-4881-9e92-3cf5363b8f9b
+    Parts:
+        -   Entity:
+                Id: 226be755-42df-4881-9e92-3cf5363b8f9b
+                Name: TextEntity
+                Components:
+                    b06ec777177e4ec78910eec749327f38: !TransformComponent
+                        Id: 6121422b-8037-4d2c-9e2f-43fd43dccc72
+                        Position: {X: 0.0, Y: 0.0, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    ef436210465f7caacb3af72a27228c61: !UIComponent
+                        Id: fffacf1d-779c-4b20-92c2-c3a083589f3c
+                        Page: 3bffafef-b766-48b1-920b-2a1c17359366:UITest/TextPage
+                        IsFullScreen: false
+                        Resolution: {X: 128.0, Y: 32.0, Z: 1000.0}
+                        Size: {X: 2.0, Y: 0.5, Z: 1.0}

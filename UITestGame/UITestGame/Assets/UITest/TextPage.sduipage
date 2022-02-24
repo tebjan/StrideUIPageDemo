@@ -1,0 +1,29 @@
+!UIPageAsset
+Id: 3bffafef-b766-48b1-920b-2a1c17359366
+SerializedVersion: {Stride: 2.1.0.1}
+Tags: []
+Design:
+    Resolution: {X: 128.0, Y: 32.0, Z: 1000.0}
+Hierarchy:
+    RootParts:
+        - !TextBlock ref!! 7d8e4bd6-3f3f-461f-9154-82a6d42609e0
+    Parts:
+        -   UIElement: !TextBlock
+                Id: 7d8e4bd6-3f3f-461f-9154-82a6d42609e0
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Width: 128.0
+                Height: 32.0
+                HorizontalAlignment: Center
+                VerticalAlignment: Center
+                Margin: {Top: 240.0, Bottom: 240.0}
+                MaximumWidth: 3.40282347E+38
+                MaximumHeight: 3.40282347E+38
+                MaximumDepth: 3.40282347E+38
+                Name: TheTextBlock
+                Text: Text
+                Font: 2e39fa96-ab3d-4527-9799-607631d2aa13:UITest/Arial20RegularSDF
+                TextSize: 24.0
+                TextColor: {R: 240, G: 240, B: 240, A: 255}
+                TextAlignment: Center
+                WrapText: true
